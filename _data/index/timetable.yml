@@ -1,0 +1,92 @@
+# schedules section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Welcome Remarks 
+  desc:
+    detail: 
+    video: 
+    slides: https://github.com/ilr-workshop/ECCVW2024/blob/master/static/assets/slides/eccv2024_ilrw_intro.pdf
+    host: 
+  date:
+    detail: Sep. 30th, 9:00am-9:10am (UTC+2/CEST)
+  icon: fa-microphone
+
+- name: 
+    detail: Keynote 1
+  desc:
+    title: Fine-grained image classification based on retrieval and data generation
+    detail: Cordelia Schmid
+    video: 
+    slides: 
+    host: 
+  date:
+    detail: Sep. 30th, 9:10am-9:40am (UTC+2/CEST)
+  icon: fa-microphone 
+
+- name:
+    detail: Oral session
+  desc:
+    detail1: Leveraging Object Priors for Point Tracking
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Sep. 30th, 9:40am-10:05am (UTC+2/CEST)
+  icon: fa-microphone 
+
+- name:
+    detail: Poster session & Coffee break
+  desc:
+    detail: 
+    video: 
+    slides: 
+    host: 
+  date:
+    detail: Sep. 30th, 10:05am-11:05am (UTC+2/CEST)
+  icon:
+
+- name:
+    detail: Keynote 2 
+  desc:
+    detail: Giorgos Kordopatis-Zilos
+    title: Visual similarity learning for instance-level image and video retrieval
+    video: 
+    slides: https://github.com/ilr-workshop/ECCVW2024/blob/master/static/assets/slides/ilrw_keynote_pdf.pdf
+    host: 
+  date:
+    detail: Sep. 30th, 11:05am-11:35am (UTC+2/CEST)
+  icon: fa-microphone 
+
+- name:
+    detail: Oral Session - Invited papers
+  desc:
+    detail2: MeshVPR- Citywide Visual Place Recognition Using 3D Meshes
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Sep. 30th, 11:35am-12:05pm (UTC+2/CEST)
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote 3
+  desc:
+    detail: Varun Jampani
+    title: Instance-specific 2D and 3D generation
+    video: 
+    slides: https://github.com/ilr-workshop/ECCVW2024/blob/master/static/assets/slides/Instance_specific_2D_3D_Generation_ECCV24_workshop.pdf
+    host: 
+  date:
+    detail: Sep. 30th, 12:05pm-12:35pm (UTC+2/CEST)
+  icon: fa-microphone 
+
+- name:
+    detail: Closing Remarks  
+  desc:
+    detail: 
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Sep. 30th, 12:35pm-12:40pm (UTC+2/CEST) 
+  icon: fa-microphone 

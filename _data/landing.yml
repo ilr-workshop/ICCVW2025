@@ -1,0 +1,55 @@
+# index page sections
+# custom following lines to edit your index page
+- id: about-me
+  i18n: nav.about_me
+  name: Info
+  tpl: about.html
+  css:
+
+# - id: Challenge
+#   i18n: nav.challenge
+#   name: challenges
+#   tpl: challenge.html
+#   css: challenge
+
+- id: Timetable
+  i18n: nav.Timetable
+  name: Timetable
+  tpl: timetable.html
+  css: timeline
+
+# - id: Schedule
+#   i18n: nav.schedule
+#   name: schedule
+#   tpl: schedule.html
+#   css: timeline
+
+- id: Speaker 
+  i18n: nav.speaker
+  name: speakers
+  tpl: speaker.html
+  css: speaker
+
+- id: Accepted_Papers
+  i18n: nav.challenge
+  name: Accepted Papers
+  tpl: accepted_papers.html
+  css: 
+
+- id: Invited_Papers
+  i18n: nav.challenge
+  name: Invited Papers
+  tpl: invited_papers.html
+  css: 
+
+- id: Call_For_Papers
+  i18n: nav.challenge
+  name: Call For Papers
+  tpl: call_for_paper.html
+  css: 
+
+- id: Organizers
+  i18n: nav.organizer
+  name: organizers
+  tpl: organizer.html
+  css: contact

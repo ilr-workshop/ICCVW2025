@@ -1,0 +1,66 @@
+# links section data
+- last_name: Andre
+  first_name: Araujo
+  desc: Google DeepMind (Primary Contact)
+  website: https://andrefaraujo.github.io
+  email: andrearaujo@google.com
+
+- last_name: Bingyi 
+  first_name: Cao
+  desc: Google DeepMind
+  website: 
+  email: bingyi@google.com
+
+- last_name: Kaifeng
+  first_name: Chen
+  desc: Google DeepMind
+  website: https://scholar.google.com/citations?user=xjEcoNQAAAAJ&hl=en
+  email: francischen@google.com
+
+- last_name: Ondrej
+  first_name: Chum
+  desc: Czech Technical University
+  website: http://cmp.felk.cvut.cz/~chum/
+  email: chum@cmp.felk.cvut.cz
+
+- last_name: Noa
+  first_name: Garcia
+  desc: Osaka University
+  website: http://noagarciad.com/
+  email: noagarcia@ids.osaka-u.ac.jp
+
+- last_name: Bohyung
+  first_name: Han
+  desc: Seoul National University 
+  website: https://cv.snu.ac.kr/index.php/~bhhan/
+  email: bhhan@snu.ac.kr
+
+- last_name: Guangxing
+  first_name: Han
+  desc: Columbia University 
+  website: https://guangxinghan.github.io
+  email: guangxinghan@gmail.com
+
+- last_name: Giorgos
+  first_name: Tolias
+  desc: Czech Technical University
+  website: http://cmp.felk.cvut.cz/~toliageo/
+  email: giorgos.tolias@cmp.felk.cvut.cz
+
+- last_name: Hao
+  first_name: Yang
+  desc: Amazon
+  website: https://sites.google.com/site/lancelot365/
+  email: Lancelot365@gmail.com
+
+- last_name: Nikolaos-Antonios
+  first_name: Ypsilantis
+  desc: Czech Technical University
+  website: https://nikosips.github.io/
+  email: ypsilnik@fel.cvut.cz
+
+- last_name: Xu 
+  first_name: Zhang
+  desc: Amazon
+  website: https://xu-zhang-1987.github.io/
+  email: xzhnamz@amazon.com 

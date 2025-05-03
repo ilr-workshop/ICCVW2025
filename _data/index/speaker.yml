@@ -1,0 +1,31 @@
+# speaker section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+#
+
+- name: Cordelia Schmid 
+  url: https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en
+  i18n: Cordelia Schmid
+  img: /static/assets/img/landing/cordelia.jpg
+  desc: Research Director at INRIA and Google DeepMind
+  title: Fine-grained image classification based on retrieval and data generation
+  abstract: 
+  bio: 
+
+- name: Varun Jampani
+  url: https://scholar.google.com/citations?user=1Cv6Sf4AAAAJ&hl=en
+  i18n: Varun Jampani
+  img: /static/assets/img/landing/varun.jpeg
+  desc: Lead Researcher at Stability AI
+  title: Instance-specific 2D and 3D generation
+  abstract: 
+  bio: 
+
+- name: Giorgos Kordopatis-Zilos
+  url: https://scholar.google.com/citations?user=Do-7qx4AAAAJ&hl=en
+  i18n: Giorgos Kordopatis-Zilos
+  img: /static/assets/img/landing/giorgos.jpg
+  desc: Postdoctoral Researcher at the CTU in Prague
+  title: Visual similarity learning for instance-level image and video retrieval
+  abstract: 
+  bio: 
