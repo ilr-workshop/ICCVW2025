@@ -29,17 +29,17 @@
   website: http://noagarciad.com/
   email: noagarcia@ids.osaka-u.ac.jp
 
-- last_name: Bohyung
-  first_name: Han
-  desc: Seoul National University 
-  website: https://cv.snu.ac.kr/index.php/~bhhan/
-  email: bhhan@snu.ac.kr
-
 - last_name: Guangxing
   first_name: Han
   desc: Columbia University 
   website: https://guangxinghan.github.io
   email: guangxinghan@gmail.com
+
+- last_name: Giorgos
+  first_name: Kordopatis-Zilos
+  desc: Czech Technical University
+  website: https://gkordo.github.io/
+  email: kordogeo@fel.cvut.cz
 
 - last_name: Giorgos
   first_name: Tolias
