@@ -1,7 +1,7 @@
 # links section data
 - last_name: Andre
   first_name: Araujo
-  desc: Google DeepMind (Primary Contact)
+  desc: Google DeepMind
   website: https://andrefaraujo.github.io
   email: andrearaujo@google.com
 
@@ -37,7 +37,7 @@
 
 - last_name: Giorgos
   first_name: Kordopatis-Zilos
-  desc: Czech Technical University
+  desc: Czech Technical University (Primary Contact)
   website: https://gkordo.github.io/
   email: kordogeo@fel.cvut.cz
 
