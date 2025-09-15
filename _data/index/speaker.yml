@@ -3,29 +3,29 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 #
 
-- name: Cordelia Schmid 
-  url: https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en
-  i18n: Cordelia Schmid
-  img: /static/assets/img/landing/cordelia.jpg
-  desc: Research Director at INRIA and Google DeepMind
-  title: Fine-grained image classification based on retrieval and data generation
+- name: Sara Beery 
+  url: https://beerys.github.io/
+  i18n: Sara Beery
+  img: /static/assets/img/landing/sara.jpeg
+  desc: Assistant Professor at MIT CSAIL
+  title: 
   abstract: 
   bio: 
 
-- name: Varun Jampani
-  url: https://scholar.google.com/citations?user=1Cv6Sf4AAAAJ&hl=en
-  i18n: Varun Jampani
-  img: /static/assets/img/landing/varun.jpeg
-  desc: Lead Researcher at Stability AI
-  title: Instance-specific 2D and 3D generation
+- name: Matej Kristan
+  url: https://www.vicos.si/people/matej_kristan/
+  i18n: Matej Kristan
+  img: /static/assets/img/landing/matej.png
+  desc: Full Professor at Faculty of computer and information science, University of Ljubljana
+  title: 
   abstract: 
   bio: 
 
-- name: Giorgos Kordopatis-Zilos
-  url: https://scholar.google.com/citations?user=Do-7qx4AAAAJ&hl=en
-  i18n: Giorgos Kordopatis-Zilos
-  img: /static/assets/img/landing/giorgos.jpg
-  desc: Postdoctoral Researcher at the CTU in Prague
-  title: Visual similarity learning for instance-level image and video retrieval
+- name: Mark Boss
+  url: https://markboss.me/
+  i18n: Mark Boss
+  img: /static/assets/img/landing/mark.jpg
+  desc: Researcher at Stability AI
+  title: 
   abstract: 
   bio: 
