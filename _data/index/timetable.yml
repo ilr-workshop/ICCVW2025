@@ -26,23 +26,12 @@
 - name:
     detail: Oral session - long papers
   desc:
-    detail1: Motion-Refined DINOSAUR for Unsupervised Multi-Object Discovery
+    detail1: Please go to _includes/sections/timetable.html
     video: 
     slides: 
     host:
   date:
-    detail: Oct. 19, 9:10am-9:22am (HST)
-  icon: fa-microphone 
-
-- name:
-    detail: Oral session - long papers
-  desc:
-    detail1: Benchmarking Feature Upsampling Methods for Vision Foundation Models using Interactive Segmentation
-    video: 
-    slides: 
-    host:
-  date:
-    detail: Oct. 19, 9:22am-9:35am (HST)
+    detail: Oct. 19, 9:10am-9:35am (HST)
   icon: fa-microphone 
 
 - name: 
@@ -71,34 +60,12 @@
 - name:
     detail: Oral Session - Invited papers
   desc:
-    detail2: PanSt3R: Multi-view Consistent Panoptic Segmentation
+    detail2: Please go to _includes/sections/timetable.html 
     video: 
     slides: 
     host:
   date:
-    detail: Oct. 19, 11:15am-11:28am (HST)
-  icon: fa-microphone 
-
-- name:
-    detail: Oral Session - Invited papers
-  desc:
-    detail2: ObjectMate: A Recurrence Prior for Object Insertion and Subject‑Driven Generation
-    video: 
-    slides: 
-    host:
-  date:
-    detail: Oct. 19, 11:28am-11:41am (HST)
-  icon: fa-microphone 
-
-- name:
-    detail: Oral Session - Invited papers
-  desc:
-    detail2: DiffSim: Taming Diffusion Models for Evaluating Visual Similarity
-    video: 
-    slides: 
-    host:
-  date:
-    detail: Oct. 19, 11:41am-11:55am (HST)
+    detail: Oct. 19, 11:15am-11:55am (HST)
   icon: fa-microphone 
 
 - name:
