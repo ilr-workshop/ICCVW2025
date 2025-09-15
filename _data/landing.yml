@@ -24,11 +24,11 @@
 #   tpl: schedule.html
 #   css: timeline
 
-# - id: Speaker 
-#   i18n: nav.speaker
-#   name: speakers
-#   tpl: speaker.html
-#   css: speaker
+- id: Speaker 
+  i18n: nav.speaker
+  name: speakers
+  tpl: speaker.html
+  css: speaker
 
 - id: Accepted_Papers
   i18n: nav.challenge
