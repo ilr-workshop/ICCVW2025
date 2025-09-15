@@ -30,11 +30,11 @@
 #   tpl: speaker.html
 #   css: speaker
 
-# - id: Accepted_Papers
-#   i18n: nav.challenge
-#   name: Accepted Papers
-#   tpl: accepted_papers.html
-#   css: 
+- id: Accepted_Papers
+  i18n: nav.challenge
+  name: Accepted Papers
+  tpl: accepted_papers.html
+  css: 
 
 # - id: Invited_Papers
 #   i18n: nav.challenge
