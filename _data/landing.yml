@@ -36,11 +36,11 @@
   tpl: accepted_papers.html
   css: 
 
-# - id: Invited_Papers
-#   i18n: nav.challenge
-#   name: Invited Papers
-#   tpl: invited_papers.html
-#   css: 
+- id: Invited_Papers
+  i18n: nav.challenge
+  name: Invited Papers
+  tpl: invited_papers.html
+  css: 
 
 - id: Call_For_Papers
   i18n: nav.challenge
