@@ -34,6 +34,9 @@
                         {% if timetable.desc.detail %}
                         <p><span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.detail }} </span> <br />
                         {% endif %}
+                        {% if timetable.desc.title1 %}
+                        <span data-i18n="timetable.{{ timetable.desc.i18n }}">No Two Alike: Generation and editing, Instance by Instance</span></p>
+                        {% endif %}
                         {% if timetable.desc.title %}
                         <span data-i18n="timetable.{{ timetable.desc.i18n }}">{{ timetable.desc.title }} </span></p>
                         {% endif %}
