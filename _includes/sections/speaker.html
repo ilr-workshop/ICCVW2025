@@ -27,6 +27,11 @@
                   {% endif %}
                   </h4>
                   <p><span data-i18n="speaker.{{ speaker.i18n }}">{{ speaker.desc }}</span></p>
+                  {% if speaker.title1 %}
+                      <h4>
+                      <p><span data-i18n="speaker.{{ speaker.i18n }}" class="navy" >No Two Alike: Generation and editing, Instance by Instance</span></p>
+                      </h4>
+                  {% endif %}
                   <h4>
                   <p><span data-i18n="speaker.{{ speaker.i18n }}" class="navy" >{{ speaker.title }}</span></p>
                   </h4>
