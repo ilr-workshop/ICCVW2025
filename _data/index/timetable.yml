@@ -14,7 +14,7 @@
 - name: 
     detail: Keynote 1
   desc:
-    title: 
+    title: What do we really need from an instance model?
     detail: <a href="https://beerys.github.io/">Sara Beery</a>
     video: 
     slides: 
@@ -37,7 +37,7 @@
 - name: 
     detail: Keynote 2
   desc:
-    title: 
+    title: Robust general visual object tracking in the presence of distractors
     detail: <a href="https://www.vicos.si/people/matej_kristan/">Matej Kristan</a>
     video: 
     slides: 
@@ -72,7 +72,7 @@
     detail: Keynote 3
   desc:
     detail: <a href="https://markboss.me/">Mark Boss</a>
-    title: 
+    title1: No Two Alike
     video: 
     slides: 
     host: 
